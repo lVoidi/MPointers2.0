@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmpointers_proto.a CMakeFiles/mpointers_proto.dir/__/generated/memory_manager.pb.cc.o CMakeFiles/mpointers_proto.dir/__/generated/memory_manager.grpc.pb.cc.o
+/usr/bin/ranlib libmpointers_proto.a

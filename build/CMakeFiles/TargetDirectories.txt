@@ -1,0 +1,9 @@
+/home/lvoidi/Documents/DatosII/MPointers/build/CMakeFiles/edit_cache.dir
+/home/lvoidi/Documents/DatosII/MPointers/build/CMakeFiles/rebuild_cache.dir
+/home/lvoidi/Documents/DatosII/MPointers/build/proto/CMakeFiles/mpointers_proto.dir
+/home/lvoidi/Documents/DatosII/MPointers/build/proto/CMakeFiles/edit_cache.dir
+/home/lvoidi/Documents/DatosII/MPointers/build/proto/CMakeFiles/rebuild_cache.dir
+/home/lvoidi/Documents/DatosII/MPointers/build/src/CMakeFiles/mpointers_lib.dir
+/home/lvoidi/Documents/DatosII/MPointers/build/src/CMakeFiles/memory_manager_server.dir
+/home/lvoidi/Documents/DatosII/MPointers/build/src/CMakeFiles/edit_cache.dir
+/home/lvoidi/Documents/DatosII/MPointers/build/src/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmpointers_lib.a CMakeFiles/mpointers_lib.dir/memory_manager.cpp.o
+/usr/bin/ranlib libmpointers_lib.a

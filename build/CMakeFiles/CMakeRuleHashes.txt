@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+ea5d25c385ee5deb7f8eda326b6039d2 generated/memory_manager.pb.cc
+b36825eeaf0deafc03206b6dbaa1fa30 proto/memory_manager.grpc.pb.cc
+2d90ef0fb4f7782ff2ff9cbf659044a5 proto/memory_manager.pb.h
